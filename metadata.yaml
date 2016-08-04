@@ -1,0 +1,40 @@
+_repo: Under-Two-Flags_3465
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - Ramée, Maria Louise
+    - De la Ramée, Louise
+    - De La Rame, Louisa
+    - Ramé, Marie Louise
+    - De la Ramée, Louisa
+    - Uida
+    - De la Ramee, Louise
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: "Under Two Flags (1867) was a best-selling novel of the late 1860s by\
+  \ Ouida. Perhaps \"her best\" novel.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3465'
+  wikidata: Q7883194
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France. Armée. Légion étrangère -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Algeria -- Fiction'
+- !lcsh 'British -- Algeria -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Under Two Flags
+url: http://www.gutenberg.org/ebooks/3465
+wikipedia:
+- https://en.wikipedia.org/wiki/Under_Two_Flags_(novel)
